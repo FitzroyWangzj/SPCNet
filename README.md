@@ -36,7 +36,7 @@ If you encounter version mismatch issues with mim installation, you may download
 | Model | Dataset | Checkpoint | Config |
 |-----------|-----------|-----------|-----------|
 | MSCNet    | DOTA v1  | [daotav1 checkpoint]( https://pan.baidu.com/s/1yxVU83ZGqz6LRRUXa8ASZw?pwd=na3f)   | [configs/mscnet/mscnet-s_fpn_o-rcnn-dotav1-ms_le90.py](configs/mscnet/mscnet-s_fpn_o-rcnn-dotav1-ss_le90.py)    |
-| MSCNet    | DOTA v1.5  | [daotav15 checkpoint]( https://pan.baidu.com/s/1yxVU83ZGqz6LRRUXa8ASZw?pwd=na3f)   | [configs/mscnet/mscnet-s_fpn_o-rcnn-dotav1-ms_le90.py](configs/mscnet/mscnet-s_fpn_o-rcnn-dotav1-ss_le90.py)    |
+| MSCNet    | DOTA v1.5  | [daotav15 checkpoint](https://pan.baidu.com/s/1LYUj07L9yF2i1M7dWbvg7A?pwd=8y8g)   | [configs/mscnet/mscnet-s_fpn_o-rcnn-dotav1-ms_le90.py](configs/mscnet/mscnet-s_fpn_o-rcnn-dotav15-ss_le90.py)    |
 
 ## Pre-trained Models
 
