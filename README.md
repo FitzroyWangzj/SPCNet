@@ -35,7 +35,7 @@ If you encounter version mismatch issues with mim installation, you may download
 
 | Model | Checkpoint | Config |
 |-----------|-----------|-----------|
-| MSCNet    | [checkpoint/latest.pth](checkpoint/latest.pth)   | [configs/mscnet/mscnet-s_fpn_o-rcnn-dotav1-ms_le90.py](configs/mscnet/mscnet-s_fpn_o-rcnn-dotav1-ss_le90.py)    |
+| MSCNet    | [checkpoint/latest.pth]( https://pan.baidu.com/s/1yxVU83ZGqz6LRRUXa8ASZw?pwd=na3f)   | [configs/mscnet/mscnet-s_fpn_o-rcnn-dotav1-ms_le90.py](configs/mscnet/mscnet-s_fpn_o-rcnn-dotav1-ss_le90.py)    |
 
 ## Pre-trained Models
 
